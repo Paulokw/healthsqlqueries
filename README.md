@@ -1,2 +1,2 @@
 # healthsqlqueries
-a collection of queries of a database for a hospital that gives various results required by the hospital
+These are sql queries that answer various questions brought forward by the hospital partaining medical information on various metrics
